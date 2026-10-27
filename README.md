@@ -2,5 +2,7 @@
 
 
 
-!\[Resultado Integrante 3](TopMusical/img/ResultadoIntegrante3.png)
+!\[Resultado](TopMusical/img/ResultadoIntegrante3.png)
+
+
 
